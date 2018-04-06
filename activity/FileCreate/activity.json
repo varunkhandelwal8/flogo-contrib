@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "type": "flogo:activity",
   "description": "activity description",
+  "ref": "https://github.com/varunkhandelwal8/flogo-contrib/activity/FileCreate",
   "author": "Varun Khandelwal <vkhandel@tibco.com>",
   "inputs":[
     {
