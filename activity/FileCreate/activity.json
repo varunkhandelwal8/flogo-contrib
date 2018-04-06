@@ -1,0 +1,19 @@
+{
+  "name": "FileCreate",
+  "version": "0.0.1",
+  "type": "flogo:activity",
+  "description": "activity description",
+  "author": "Varun Khandelwal <vkhandel@tibco.com>",
+  "inputs":[
+    {
+      "name": "path",
+      "type": "string"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "output",
+      "type": "string"
+    }
+  ]
+}
